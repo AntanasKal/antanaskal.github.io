@@ -2,9 +2,13 @@
 title: Contact
 ---
 
-If you would like to contact me, here is my email: antanas001🥔e.ntu.edu.sg.
+If you would like to contact me, here is my email:
+    
+    
+    antanas001 (at) e (dot) ntu (dot) edu (dot) sg
+    
 
-My other profiles:
+Various profiles:
 
 - [GitHub](https://github.com/AntanasKal)
 - [LinkedIn](https://www.linkedin.com/in/antanas-kalkauskas-362135135/)
